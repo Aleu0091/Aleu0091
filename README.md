@@ -1,6 +1,9 @@
 # About
 Hello there! I'm just a fullstack programmer.<br/>
 I like **cute** things! 
+
+[![Image](https://discord.aleu.xyz/user/739673575929282571?v=1725228631)](https://discord.com/users/739673575929282571)
+
 # Skills
 ## Program languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![CSharp](https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -23,7 +26,6 @@ I like **cute** things!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleu0091&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true)
 
-[![Image](https://discord.aleu.xyz/user/739673575929282571?v=1725228631)](https://discord.com/users/739673575929282571)
 
 
 
