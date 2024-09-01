@@ -19,7 +19,7 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --local user.email "me@alha0091.xyz"
+        git config --local user.email "me@alpha0091.xyz"
         git config --local user.name "GitHub Action"
         git commit -am "Update README with latest Discord image"
         git push
