@@ -23,7 +23,7 @@ I like **cute** things!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleu0091&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true)
 
-[![Image](https://discord.aleu.xyz/user/739673575929282571?v=1725223384)](https://discord.com/users/739673575929282571)
+[![Image](https://discord.aleu.xyz/user/739673575929282571?v=1725223802)](https://discord.com/users/739673575929282571)
 
 
 
