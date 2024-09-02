@@ -2,8 +2,8 @@ name: Update README with Discord Image
 
 on:
   schedule:
-    - cron: "*/5 * * * *" 
-
+    - cron: "*/10 * * * *" 
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
