@@ -2,7 +2,7 @@
 Hello there! I'm just a fullstack programmer.<br/>
 I like **cute** things! 
 
-[![Image](https://discord.aleu.xyz/user/739673575929282571?v=1725364873)](https://discord.com/users/739673575929282571)
+[![Image](https://discord.aleu.xyz/user/739673575929282571?v=1725367314)](https://discord.com/users/739673575929282571)
 
 # Skills
 ## Program languages
