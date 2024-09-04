@@ -14,8 +14,8 @@ jobs:
 
     - name: Update README
       run: |
-        image_url="https://discord.aleu.xyz/user/739673575929282571?v=$(date +%s)"
-        sed -i "s|!\[Image\](https://discord.aleu.xyz/user/739673575929282571?v=[^\)]*)|![Image]($image_url)|" README.md
+        image_url="https://fila.aleu.xyz/discord/user/739673575929282571?v=$(date +%s)"
+        sed -i "s|!\[Image\](https://fila.aleu.xyz/discord/user/739673575929282571?v=[^\)]*)|![Image]($image_url)|" README.md
 
     - name: Commit changes
       run: |
