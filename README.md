@@ -1,5 +1,6 @@
 # About
-Hello there! I'm just a fullstack programmer.<br/>
+Hello there! I'm just aleu a fullstack programmer.
+
 I like **cute** things! 
 
 [![Image](https://fila.aleu.xyz/discord/user/739673575929282571?v1)](https://discord.com/users/739673575929282571)
