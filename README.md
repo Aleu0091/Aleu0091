@@ -26,7 +26,7 @@ I like **cute** things!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleu0091&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true)
 
-![](https://fila.aleu.xyz/counter/aleu0091?v2)
+![](https://fila.aleu.xyz/counter/aleu0091)
 
 
 
