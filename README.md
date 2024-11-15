@@ -18,7 +18,9 @@ I like **cute** things!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ## Contact
-[![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@alpha0091.xyz)
+[![](https://img.shields.io/badge/MainMail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@aleu.xyz)
+[![](https://img.shields.io/badge/SubMail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@alpha0091.xyz)
+[![](https://img.shields.io/badge/TeamMail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleu@discordspam.live)
 [![](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/739673575929282571)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
