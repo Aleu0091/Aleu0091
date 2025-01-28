@@ -20,8 +20,6 @@ I like **cute** things!
 
 ## Contact
 [![](https://img.shields.io/badge/MainMail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@aleu.xyz)
-[![](https://img.shields.io/badge/SubMail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@alpha0091.xyz)
-[![](https://img.shields.io/badge/TeamMail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleu@discordspam.live)
 [![](https://img.shields.io/badge/TeamMail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleu@nextile.org)
 [![](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/739673575929282571)
 
