@@ -2,7 +2,7 @@
 I'm a developer, Aleu, who uses coding to create what I need!</br>
 I like **cute** things! 
 
-[![Image](https://fila.aleu.xyz/discord/user/739673575929282571?theme=dark)](https://discord.com/users/739673575929282571)
+[![Image](https://fila.aleu.xyz/discord/user/739673575929282571?theme=dark&detail=true)](https://discord.com/users/739673575929282571)
 
 # Skills
 ## Program languages
